@@ -1,2 +1,3 @@
 # Clinic_project
-Data Base of Clinic
+This project about private clinic
+
